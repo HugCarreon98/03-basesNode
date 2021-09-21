@@ -1,0 +1,17 @@
+{
+  "name": "appnode1",
+  "version": "1.0.0",
+  "description": "Esta aplicación recibe un numero base en consola y guarda un .txt con la tabla de multiplicacion con el numero base.",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Carreón",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
